@@ -1,0 +1,21 @@
+QUESTION SET FOR NETFLIX_DATA_ANALYSIS
+
+1. finding the duplicate records and deleting it
+2. checking for the null values and deleting it
+3. For "house of cards" what is the show id and who is the director of this show
+4. In which year the higheest number of the TV show and movies were released ?show with bar graph
+5. HOW MANY MOVIE AND TV SHOWS ARE IN THE DATA SET ? SHOW WITH THE BAR GRAPH
+6. show all the movies that were release in the year 2000
+7. show only the title of all TV shows thatg were rteleased in india only
+8. Show Top 10 Diretor who gave the highest number of TV shows to netflix
+9. show all the records where "category" is movie and type is commeies or country is United Kingdom
+10.in how many movies or tv show tom cruise was cast
+11.What are the different ratings defined by netflix
+12.how many movies got the "TV-14" rating in Canada?
+13.how many TV show got the "R" rating after the yerar 2018
+14.what is the maximum duration of a movie/show on netflix
+15.which individual country have the highest No of TV show
+16.how can we sort the dataset by year
+17.	a)find all the instances where : Category is "movie" and type is "drama"
+	b)Category is "movie" and type is "drama"
+	c)Category is "TV show " and type is "Kids tv"
